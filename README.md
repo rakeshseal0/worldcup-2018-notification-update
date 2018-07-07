@@ -28,7 +28,12 @@ cd worldcup-2018-notification-update/notify
 python3football.py -m match_no -t time_in_min
 
 ```
-example: python3 football.py -m 58 -t 10
+#example:
+```
+
+python3football.py -m 58 -t 10
+
+```
 
 ## Acknowledgments
 www.livefootball.com
