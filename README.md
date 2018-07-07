@@ -31,4 +31,4 @@ example: python3 football.py -m 58 -t 10
 ## Acknowledgments
 www.livefootball.com
 
-<img src="http://phpexampl.000webhostapp.com/github_screenshot/Screenshot%20from%202018-07-07%2004-46-28.png" width="500" height="300"/>
+<img src="http://phpexampl.000webhostapp.com/github_screenshot/Screenshot%20from%202018-07-07%2004-46-28.png" width="600" height="300"/>
