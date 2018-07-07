@@ -23,7 +23,7 @@ Step 2: Change Directory
 ```
 cd worldcup-2018-notification-update/notify
 ```
-###Usage
+### Usage
 python3 football.py -m match_no -t time_in_min
 
 example: python3 football.py -m 58 -t 10
