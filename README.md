@@ -25,13 +25,13 @@ cd worldcup-2018-notification-update/notify
 ```
 ### Usage
 ```
-python3football.py -m match_no -t time_in_min
+python3 football.py -m match_no -t time_in_min
 
 ```
 example:
 ```
 
-python3football.py -m 58 -t 10
+python3 football.py -m 58 -t 10
 
 ```
 
